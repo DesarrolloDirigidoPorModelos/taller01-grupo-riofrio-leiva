@@ -12,5 +12,11 @@
 
 Integrantes:
 
-Francisco Riofrio
-Jorge Leiva
+ Francisco Riofrio
+ Jorge Leiva
+
+Observaciones:
+Codigo se encuentra dentro de la carpeta problemaitica 3
+Las imagenes son:
+ Imagenes PMI's.jpg--> Posee los tres diagramas PIM de las problematicas
+ PSM_problematica3.jpg --ES el modelo PSM de la problematica 3
